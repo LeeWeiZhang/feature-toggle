@@ -2,7 +2,7 @@
 
 ## Setup In Local Machine
 To pull this application from GitHub repo.
-run ```git clone ```
+run ```git clone https://github.com/LeeWeiZhang/feature-toggle.git```
 To Setup this application in local.
 1. An accessible Mysql Database is required.
 2. Installed PHP 7.3 or PHP 8
